@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.18",
-  "notes": "RpaAiClaw v0.1.18 更新",
-  "pub_date": "2026-04-29T12:49:49.354Z",
+  "version": "v0.1.19",
+  "notes": "RpaAiClaw v0.1.19 更新",
+  "pub_date": "2026-04-29T15:02:19.512Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/LuoYu-987/rapAiClaw/releases/download/v0.1.18/RpaAiClaw_0.1.18_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWEJFOWcvQ3JvTnhpSnhyMjV4UHkxRUJFM3k5NHo0S2FHVm5EbWhqdTFNY1l0MzFIQVlSUk9zUXFUalFwN2pmWk40bG5OT3ZVZ3dkcFR3dklscEFEK051Vm5RU1VmYlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTg2MzczCWZpbGU6UnBhQWlDbGF3XzAuMS4xOF94NjQtc2V0dXAubnNpcy56aXAKQVZBWlZPQktsVVdUdTYyTWpGcTdtL01aaVVtOENEL1R0b0ZERklSZWpTV3RiK1h4bksyVWJ6NS9TZzR2SjJXS0hNSGdMbVBxRzFQTDFYMG9IRFU0Q3c9PQo="
+      "url": "https://github.com/LuoYu-987/rapAiClaw/releases/download/v0.1.19/RpaAiClaw_0.1.19_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWEJFOWcvQ3JvTi93VHN5bXFxdUUyVVRiTGtTbUtkQUcvN3JzbElWNmY4S3ZQUHZNYTVvdnE4aGZwaEplZEpBaE8xWGRBbEJtK3ZZU1dFQlpQM2szNHQ4ZktUcWhreUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDc0MzQ4CWZpbGU6UnBhQWlDbGF3XzAuMS4xOV94NjQtc2V0dXAubnNpcy56aXAKNkJXZldsWlMyTmVZYURnWjdNbXdUbjZ6SGRJb2tRWmhXb1ExaGZRYWJxMkh6ZzdUQWd0NDg1V2V4VnNtTHVkT2I4S0p6Y3NZWFZ0dFQ5Wkp5VFg0Q1E9PQo="
     }
   }
 }
