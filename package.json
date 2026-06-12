@@ -1,0 +1,17 @@
+{
+  "name": "rpa-ai-claw-version-control",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs --host 127.0.0.1",
+    "release:page": "node scripts/release-rpa-ai-claw-page.js",
+    "release:page:dry-run": "node scripts/release-rpa-ai-claw-page.js --dry-run"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.34"
+  }
+}

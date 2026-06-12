@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP Version Check"
+  short_description: "Compare MCP source versions with docs release versions."
+  default_prompt: "Check D:\\DevEnvironment\\Project\\RPA\\MCP versions, update docs, and publish the docs site."

@@ -1,0 +1,67 @@
+:root {
+  --vp-c-brand-1: #0f766e;
+  --vp-c-brand-2: #0d9488;
+  --vp-c-brand-3: #14b8a6;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  letter-spacing: 0;
+}
+
+.vp-doc table {
+  display: table;
+  width: 100%;
+}
+
+.vp-doc .vp-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  margin: 24px 0;
+}
+
+.vp-doc .vp-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 18px;
+  background: var(--vp-c-bg-soft);
+}
+
+.vp-doc .vp-card h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.vp-doc .status {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 2px 10px;
+  font-size: 13px;
+  background: #ecfdf5;
+  color: #047857;
+}
+
+.vp-doc .status-muted {
+  background: #f3f4f6;
+  color: #4b5563;
+}
+
+.vp-doc .download-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  border-radius: 8px;
+  padding: 0 18px;
+  background: var(--vp-c-brand-1);
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.vp-doc .download-button:hover {
+  background: var(--vp-c-brand-2);
+  color: #fff;
+}
